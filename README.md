@@ -1,12 +1,8 @@
-<!-- r/PokemonROMhacks — flair: [Release!]  — attach the 10 screenshots from ./screenshots as an image gallery, or link them -->
-<!-- Title (pick one): -->
-<!-- [Release!] Pokémon FireRed Nuzlocke Plus v1.0 – built-in, configurable Nuzlocke rules + modern QoL (pokeemerald-expansion) -->
-
 # Pokémon FireRed Nuzlocke Plus v1.0
 
 **FireRed with the Nuzlocke rules built into the game.** Every rule and quality-of-life feature can be switched on or off from an in-game menu. The story, maps and trainers are vanilla FireRed. The engine is **pokeemerald-expansion 1.17.1**, so you get Gen 9 battle mechanics, the Fairy type, a physical/special split, and modern learnsets and abilities.
 
-> **AI disclosure:** [AUTHOR — describe honestly how AI tools were used, e.g. "Most of the code was written with an AI coding assistant; I designed the features, directed it and tested the game." r/PokemonROMhacks rule 6 requires disclosure when AI use is evident.]
+> **AI disclosure:** This hack was made almost entirely with an AI coding assistant: it wrote the code, the data tools and the docs. I came up with the features, directed the work and tested the game.
 
 ## Features
 
@@ -53,7 +49,7 @@ The rules switch on once you receive the Pokédex.
 - **Everything configurable:** every feature can be toggled on the FEATURES page (OPTION → SELECT → SELECT).
 
 ## Download & patching
-- **Download:** [DOWNLOAD LINK] (`Pokemon FireRed Nuzlocke Plus.bps`, ~17 MB)
+- **Download:** https://github.com/bk-sin/PokemonFireRedNuzlockePlus/releases/latest (`Pokemon FireRed Nuzlocke Plus.bps`, ~17 MB)
 - **Base ROM:** Pokémon FireRed (USA) **v1.0** (not Rev 1)
   - SHA1 `41cb23d8dccc8ebd7c649cd8fbb58eeace6e2fdc`
   - CRC32 `DD88761C`
@@ -83,4 +79,17 @@ I can't share ROMs, so please don't ask.
 - **Floating IPS / Rom Patcher JS** — patching
 - **Pokémon** © Nintendo / Creatures / GAME FREAK. This is a free, non-commercial fan project.
 
-**Hack by [AUTHOR] — v1.0**
+**Hack by bk-sin — v1.0**
+
+## Screenshots
+
+![nuzlocke rules page](screenshots/01_nuzlocke_rules_page.png)
+![features page](screenshots/02_features_page.png)
+![damage calc](screenshots/03_damage_calc.png)
+![battle info panel](screenshots/04_battle_info_panel.png)
+![battle summary](screenshots/05_battle_summary.png)
+![strategy dex](screenshots/06_strategy_dex.png)
+![iv ev viewer](screenshots/07_iv_ev_viewer.png)
+![follower](screenshots/08_follower.png)
+![dexnav](screenshots/09_dexnav.png)
+![pokecenter heal limit](screenshots/10_pokecenter_heal_limit.png)
